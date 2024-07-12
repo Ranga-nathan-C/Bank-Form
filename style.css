@@ -1,0 +1,24 @@
+body {
+    background-color: #f4f6f9;
+}
+.form-container {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-title {
+    background: #2f5d4e;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+    margin: -30px -30px 20px -30px;
+    text-align: center;
+}
+.form-group label {
+    font-weight: bold;
+}
+svg {
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
